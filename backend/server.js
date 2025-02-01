@@ -1,4 +1,4 @@
-const express = require('express');
+navigatorconst express = require('express');
 const mysql = require('mysql2');
 const dotenv = require('dotenv');
 const bcrypt = require('bcryptjs');
